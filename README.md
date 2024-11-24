@@ -31,7 +31,7 @@ I'm currently studying Computer Science at the University of Eastern Piedmont, a
 - Build innovative applications that solve real-world problems.
 
 ## 🎯 Hobbies
-- Playing **Simultator games**
+- Playing **Simulator games**
 - Learning about **aviation and aerospace technologies** 🚀
 
 ## 📫 Contact Me
