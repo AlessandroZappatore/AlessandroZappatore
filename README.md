@@ -28,6 +28,10 @@ I'm currently studying Computer Science at the University of Eastern Piedmont, a
 - **Other Tools**: ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) 
   ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)
 
+## 🗣️ Languages
+- 🇮🇹 **Italian**: Native
+- 🇬🇧 **English**: B2 (Upper Intermediate)
+
 ## 🚀 Goals
 - Pursue a Master's degree in Artificial Intelligence.
 - Contribute to open-source projects.
