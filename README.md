@@ -27,7 +27,7 @@ I'm currently studying Computer Science at the University of Eastern Piedmont, a
   ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
 - **Other Tools**: ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) 
   ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)
-![Vaadin Directory Rating](https://img.shields.io/vaadin-directory/:format/:packageName)
+  ![Vaadin](https://img.shields.io/badge/-Vaadin-00B4F0?logo=vaadin&logoColor=white)
 
 ## 🗣️ Languages
 - 🇮🇹 **Italian**: Native
