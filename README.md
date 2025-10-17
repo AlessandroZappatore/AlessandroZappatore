@@ -5,7 +5,7 @@
 I'm Alessandro Zappatore, passionate about computer science and software development. 💻
 
 ## 🎓 About Me
-I'm currently studying Computer Science at the University of Eastern Piedmont, and I'm in my final year of the Bachelor's program.
+I hold a **Bachelor’s Degree in Computer Science** from the **University of Eastern Piedmont (UPO)**, and I’m currently pursuing a **Master’s Degree in Computer Science – Artificial Intelligence track** at the **University of Turin (UniTo)**.
 
 ## 🔧 Technologies
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
@@ -34,7 +34,7 @@ I'm currently studying Computer Science at the University of Eastern Piedmont, a
 - 🇬🇧 **English**: B2 (Upper Intermediate)
 
 ## 🚀 Goals
-- Pursue a Master's degree in Artificial Intelligence.
+- Deepen my expertise in Artificial Intelligence.
 - Contribute to open-source projects.
 - Build innovative applications that solve real-world problems.
 
