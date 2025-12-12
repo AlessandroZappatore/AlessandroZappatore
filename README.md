@@ -1,47 +1,62 @@
-![Profile views](https://komarev.com/ghpvc/?username=AlessandroZappatore&label=Visite&color=green)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F7&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Alessandro+Zappatore;Computer+Science+Student;AI+Enthusiast" alt="Typing SVG" />
+</div>
 
-# Hi there! 👋
+<div align="center">
+  <a href="https://github.com/AlessandroZappatore">
+    <img src="https://komarev.com/ghpvc/?username=AlessandroZappatore&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</div>
 
-I'm Alessandro Zappatore, passionate about computer science and software development. 💻
+---
 
-## 🎓 About Me
-I hold a **Bachelor’s Degree in Computer Science** from the **University of Eastern Piedmont (UPO)**, and I’m currently pursuing a **Master’s Degree in Computer Science – Artificial Intelligence track** at the **University of Turin (UniTo)**.
+<div align="center">
+  
+  ### 🎓 About Me
+  
+  I'm a **Computer Science** graduate from **UPO** and currently an **AI Master's Student** at **UniTo**.  
+  Passionate about building software that matters and exploring the depths of Artificial Intelligence.
 
-## 🔧 Technologies
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+  🔭 **Currently working on**: Master's degree projects & AI research  
+  🌱 **Currently learning**: Advanced Machine Learning, Deep Learning  
+  💬 **Ask me about**: Python, Java, SQL, and Software Architecture
 
-## 🛠 Tools & Skills
-- **IDE/Editors**: ![VSCode](https://img.shields.io/badge/-VSCode-0078D4?logo=visual-studio-code&logoColor=white) 
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white) 
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipse&logoColor=white)
-  ![Spyder](https://img.shields.io/badge/-Spyder-FF0000?logo=spyder-ide&logoColor=white)
-- **Version Control**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-- **Databases**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) 
-  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
-- **Other Tools**: ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) 
-  ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)
-  ![Vaadin](https://img.shields.io/badge/-Vaadin-00B4F0?logo=vaadin&logoColor=white)
+</div>
 
-## 🗣️ Languages
-- 🇮🇹 **Italian**: Native
-- 🇬🇧 **English**: B2 (Upper Intermediate)
+---
 
-## 🚀 Goals
-- Deepen my expertise in Artificial Intelligence.
-- Contribute to open-source projects.
-- Build innovative applications that solve real-world problems.
+### 🛠️ Tech Stack
 
-## 🎯 Hobbies
-- Playing **Simulator games**
-- Learning about **aviation and aerospace technologies** 🚀
+<div align="center">
 
-## 📫 Contact Me
-- Email: [alessandrozappatore03@gmail.com](mailto:alessandrozappatore03@gmail.com)
-- LinkedIn: [linkedin.com/in/alessandro-zappatore](https://www.linkedin.com/in/alessandro-zappatore-8a0433233)
+| **Languages** | **Frameworks & Tools** | **Infrastructure & DevOps** |
+|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) <br> ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br> ![Vaadin](https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=vaadin&logoColor=white) <br> ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) <br> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <br> ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) <br> ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) |
+
+</div>
+
+---
+
+### 🗣️ Languages & Hobbies
+
+<div align="center">
+  
+  🇮🇹 **Italian**: Native | 🇬🇧 **English**: B2 (Upper Intermediate)
+  
+  🎮 **Hobbies**: Simulator Games, Aviation & Aerospace 🚀
+
+</div>
+
+---
+
+### 📫 Connect with Me
+
+<div align="center">
+  <a href="mailto:alessandrozappatore03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/alessandro-zappatore-8a0433233">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+<br />
